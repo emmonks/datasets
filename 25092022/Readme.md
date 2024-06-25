@@ -1,25 +1,27 @@
-Datasets normalizados
+Datasets normalizados (Normalized Datasets)
 
-dataset_25092022_A.txt
+A) dataset_25092022_A.txt
 
 232 VoD
 425 live
-600 http, https, quic, dns, outros
+600 http, https, quic, dns, outros (others)
 
 
-dataset_25092022_B.txt
+B) dataset_25092022_B.txt
 
 232 VoD
 232 live
-232 http, https, quic, dns, outros
+232 http, https, quic, dns, outros (others)
 
-dataset_25092022_C.txt
+C) dataset_25092022_C.txt
+
 361 VoD
 361 live
-361 http, https, quic, dns, outros
+361 http, https, quic, dns, outros (others)
 
-dataset_25092022_D.txt
+D) dataset_25092022_D.txt
+
 361 VoD
 361 live
-1000 http, https, quic, dns, outros
+1000 http, https, quic, dns, outros (others)
 
